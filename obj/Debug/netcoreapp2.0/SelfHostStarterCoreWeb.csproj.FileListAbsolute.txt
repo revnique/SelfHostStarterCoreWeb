@@ -1,0 +1,11 @@
+c:\git\SelfHostStarterCoreWeb\bin\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.deps.json
+c:\git\SelfHostStarterCoreWeb\bin\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.runtimeconfig.json
+c:\git\SelfHostStarterCoreWeb\bin\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.runtimeconfig.dev.json
+c:\git\SelfHostStarterCoreWeb\bin\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.dll
+c:\git\SelfHostStarterCoreWeb\bin\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.pdb
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.csprojResolveAssemblyReference.cache
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.csproj.CoreCompileInputs.cache
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.AssemblyInfoInputs.cache
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.AssemblyInfo.cs
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.dll
+c:\git\SelfHostStarterCoreWeb\obj\Debug\netcoreapp2.0\SelfHostStarterCoreWeb.pdb
